@@ -12,8 +12,7 @@ NoSQL Challenge: Social Network API
 3. [Installation](#Installation)
 5. [Liscence](#Liscence)
 6. [Mock Up](#MockUp)
-7. [Photos](#Photos)
-8. [My Repositories](#MyRepositories)
+7. [My Repositories](#MyRepositories)
 
 
 ## User Story
