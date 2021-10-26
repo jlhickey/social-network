@@ -1,5 +1,6 @@
 # social-network
-No SQL
+NoSQL Challenge: Social Network API
+
 
 ![GitHub license](https://img.shields.io/badge/Made%20by-%40jlhickey-orange)
 ![GitHub license](https://img.shields.io/badge/license-ISC-green.svg)
@@ -42,8 +43,7 @@ ISC
 
 
 ## Mock Up   
-https://drive.google.com/file/d/1L9FLBPg1U56UQQun2ajfgq72sIwXXP5Y/view
-
+https://watch.screencastify.com/v/rWnCMvZHG83CpSePwqC8
 
 ## Photos<br>
   
