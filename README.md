@@ -3,7 +3,7 @@ NoSQL Challenge: Social Network API
 
 
 ![GitHub license](https://img.shields.io/badge/Made%20by-%40jlhickey-orange)
-![GitHub license](https://img.shields.io/badge/license-ISC-green.svg)
+![GitHub license](https://img.shields.io/badge/license-MIT-green.svg)
 
 
 ## Table of Contents
@@ -35,8 +35,20 @@ WHEN I test API POST and DELETE routes in Insomnia Core
 THEN I am able to successfully create and delete reactions to thoughts and add and remove friends to a user’s friend list
 
 ## Installation
-The app used to run are
-*  
+To install please fork/clone to your repository
+
+To install npm packages please run:
+
+```
+npm install
+```
+
+To start the program please run:
+
+```
+npm start
+```
+
 
 ## Liscence
 ISC
