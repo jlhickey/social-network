@@ -63,4 +63,4 @@ https://watch.screencastify.com/v/rWnCMvZHG83CpSePwqC8
 
 - Project Repo https://github.com/jlhickey/social-network
 - GitHub https://github.com/jlhickey
-- Heroku  
+- Heroku  https://fright-igorn.herokuapp.com/
